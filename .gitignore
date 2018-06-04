@@ -1,0 +1,15 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+#Local temp files
+/.sass-cache
+*.swp
+*.swn
+*.swm
+*.swo
+*.*~
+
+react.js/node_modules/*
